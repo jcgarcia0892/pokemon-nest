@@ -23,7 +23,7 @@ import { JoiValidationSchema } from './config/joi.validation';
     }),
     PokemonModule,
     CommonModule,
-    SeedModule
+    SeedModule,
   ],
 })
 export class AppModule {}
