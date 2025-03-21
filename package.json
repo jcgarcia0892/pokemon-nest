@@ -73,6 +73,6 @@
     "testEnvironment": "node"
   },
   "engines": {
-    "node": "20.15.0"
+    "node": "^20.*"
   }
 }
